@@ -1,0 +1,502 @@
+.top {
+    margin: 0px;
+
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    border-bottom: solid thin rgb(184, 184, 179) !important;
+
+}
+
+.top div {
+    padding-right: 200px;
+}
+
+.logo {
+    width: 150px;
+    height: 80px;
+    cursor: pointer;
+    
+}
+.logo-mini {
+    width: 100px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+.about {
+    padding-top: 20px;
+    padding-right: 15px;
+    font-weight: bold;
+    color: #6c757d;
+    cursor: pointer;
+
+}
+
+.about:hover {
+    color: rgb(32, 159, 233);
+}
+
+.log {
+    width: 80px;
+    height: 45px;
+    background-color:#17a2b8;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    border-color: #06bbb8;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.next {
+    display: flex;
+    justify-content: space-around;
+
+    padding-top: 100px;
+    background-color: #fff;
+
+}
+
+.bharat {
+    padding-top: 100px !important;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.next div {
+    padding-left: 40px;
+}
+
+.banner {
+    max-height: 635px;
+    max-width: 100%;
+    margin-top: 15px;
+    padding-right: 0px;
+}
+
+.next div p {
+    font-size: xx-large;
+    font-weight: 100;
+}
+
+.next div h5 {
+    font-size: x-large;
+}
+.next div button{
+    background-color: white;
+    cursor: pointer;
+   
+
+}
+
+.next div button img {
+    width: 160px;
+    height: 50px;
+    border-radius: 10px;
+   
+
+
+    padding: 0px;
+    
+}
+
+.slider {
+    padding-top: 100px;
+   
+}
+
+.slider div h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.ravi {
+    display: flex;
+    justify-content: space-around;
+    
+   
+}
+
+.slider div img {
+    width: 100px;
+    height: 60px;
+    filter : grayscale(100%);
+    padding-top: 80px;
+
+    
+
+}
+.slider div img:hover{
+    -webkit-filter: none; 
+filter:none;
+
+
+}
+.single{
+    text-align: center !important;
+    padding-top: 40px;
+    color: rgb(126, 126, 121);
+}
+
+.next1 {
+
+    padding-top: 70px;
+    padding-left: 170px;
+    padding-right: 150px;
+}
+
+.next1 div h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.satish {
+    display: flex;
+    flex-direction: column;
+    padding-top: -20px !important;
+}
+
+.deven {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 150px;
+}
+
+.suren {
+    height: 280px;
+    width: auto;
+}
+
+.naren .suresh img {
+    height: 50px;
+    width: 50px;
+    margin-right: .5rem !important;
+    vertical-align: middle !important;
+    border-style: none;
+}
+
+.suresh {
+
+    display: flex;
+}
+
+.naren div h3 {
+    font-weight: bolder;
+    font-size: x-large;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    color: rgb(37, 36, 36);
+    vertical-align: middle !important;
+
+}
+
+.naren p {
+    font-size: 23px !important;
+    color: rgb(128, 123, 123);
+}
+
+.shyam {
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+.high h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 40px;
+    font-family: ITCAvantGardePro;
+    color: #1d1d1b;
+}
+
+.ram {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+}
+
+.ram div img {
+    height: 330px;
+}
+
+.ram div h3 {
+    font-weight: 900;
+    font-size: 30px;
+    color: rgb(49, 47, 47);
+}
+
+.ram div p {
+    font-size: large;
+    font-weight: 400;
+    color: rgb(128, 123, 123);
+}
+
+.kartik {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+}
+
+.kartik div h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 45px;
+    margin-bottom: 0px;
+}
+
+.kartik div p {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 23px;
+    font-weight: 400;
+    color: rgb(128, 123, 123);
+}
+
+.kartik div p b {
+    color: black;
+    font-weight: 900;
+}
+
+.krishna {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.krishna div img {
+    width: 550px;
+    height: auto;
+
+
+}
+
+.krishna div div img {
+    height: 80px;
+    width: 70px;
+    margin-bottom: 0px;
+}
+
+.yash {
+    width: 600px;
+    height: 400px;
+    padding-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0px;
+    margin-left: 0px;
+
+}
+
+.yash div {
+    padding-left: 100px;
+    padding-right: 0px;
+}
+
+.yash div h6 {
+    font-size: 14px;
+    color: rgb(128, 123, 123);
+    margin-top: 10px;
+
+}
+
+.hari {
+    margin-top: 50px;
+    background-color: #00c3c0;
+    height: 500px;
+    text-align: left;
+    display: flex;
+    color: white;
+
+
+
+
+}
+
+.hari div img {
+    height: 500px;
+    margin-right: 0px;
+
+}
+
+.thilast1 {
+    padding-top: 100px;
+    margin-right: 100px;
+    margin-left: 0px;
+
+}
+
+.thilast1 div button img {
+    width: 160px;
+    height: 50px;
+    border-radius: 10px;
+   
+
+}
+
+.thilast1 div h1 {
+    font-size: 33px;
+    font-weight: 900;
+}
+
+.thilast1 div {
+    padding-left: 30px;
+}
+
+.thilast1 div h4 {
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.thilast1 div button {
+    background-color: #00c3c0;
+    border: none;
+    cursor: pointer;
+    
+
+}
+
+.thilast div h1 {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.thilast div iframe {
+    margin-left: 140px;
+    border-radius: 10px 10px 10px 10px;
+   
+
+
+}
+
+.seclast {
+    margin-top: 60px;
+    height: 250px;
+    background-color: #00c3c0;
+    color: white;
+
+}
+
+.seclast div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.seclast div div img {
+    height: 240px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 100px;
+    margin-right: 0px;
+}
+
+.seclast div div h3 {
+    font-size: 28px;
+    margin-right: 40px;
+    font-weight: 400;
+    margin-top: 60px;
+
+
+    margin-bottom: 0px;
+}
+
+.seclast1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.seclast div div button {
+    margin-top: 0px;
+    margin-bottom: 60px;
+    width: 170px;
+    height: 45px;
+    font-weight: 500;
+    color: #00c3c0;
+    font-size: large;
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+   
+}
+
+.last {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+}
+
+.last1 {
+    display: flex;
+    flex-direction: row !important;
+
+}
+
+.last1 button {
+    width: 160px;
+    height: 50px;
+   
+    border: none;
+    background-color: white;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.last1 button img {
+    width: 145px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.last div {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.last div h3 {
+    font-size: medium;
+    font-weight: 900;
+    padding-bottom: 30px;
+}
+
+.last div small {
+    font-size: medium;
+    padding-bottom: 15px;
+    color: #c0becd;
+    cursor: pointer;
+   
+    
+}
+.last div small:hover{
+    color: black;
+}
+
+
+.last div small img {
+    width: 18px;
+    height: 18px;
+    background-position: -1385px -157px;
+    color: #fff !important;
+    margin-right: 12px;
+    vertical-align: middle;
+    cursor: pointer;
+   
+}
